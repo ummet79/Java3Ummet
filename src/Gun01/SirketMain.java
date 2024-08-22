@@ -6,7 +6,7 @@ public class SirketMain {
 
         System.out.println("Task 2 kodları");
 
-
+        System.out.println("Task 3 kodları");
 
     }
 }
